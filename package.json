@@ -1,0 +1,15 @@
+{
+  "name": "ts101",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript in details",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Sanjeet Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
